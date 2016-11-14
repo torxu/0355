@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ClockDisplay()
+comment1.params=m\ h
+comment1.target=void\ fijarHora(int,\ int)
+comment2.params=
+comment2.target=void\ avanzarMinuto()
+comment3.params=
+comment3.target=java.lang.String\ verHora()
+numComments=4
